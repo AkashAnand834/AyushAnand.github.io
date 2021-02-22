@@ -1,0 +1,74 @@
+<html
+<head>
+<title><Planets of the Solar System </title>
+</head>
+<body>
+<font face = "Lucida Calligraphy" size = "4" color = "#000000">
+<A name = "top"> <h1> <p align = "center"> Planets of the Solar System </p> <h1> 
+</A>
+<hr color = "green" align = "center" width = "35%" size = "9">
+<p align = "justify"> There are nine planets in the solar system. Their names are as follows:-
+</p> <br> <br>
+<ol type = "A">
+<img src= "Mercury.jpg">
+<li> Mercury </li>
+<img src= "Venus.jpg">
+<li> Venus </li>
+<img src= "Earth.jpg">
+<li> Earth </li>
+<img src= "Mars.jpg">
+<li> Mars </li>
+<img src= "Jupiter.jpg">
+<li> Jupiter </li>
+<img src= "Saturn.jpg">
+<li> Saturn </li>
+<img src= "Uranus.jpg">
+<li> Uranus </li>
+<img src= "Neptune.jpg">
+<li> Neptune </li>
+</ol>
+<br> <br> <br>
+<p align = "right"> <A href = "#top"> TOP </A> </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
